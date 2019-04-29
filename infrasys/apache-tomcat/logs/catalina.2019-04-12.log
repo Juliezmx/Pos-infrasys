@@ -1,0 +1,5 @@
+四月 12, 2019 9:29:49 上午 org.apache.tomcat.util.http.Cookies processCookieHeader
+信息: Cookies: Invalid cookie. Value not a token or quoted value
+ Note: further occurrences of Cookie errors will be logged at DEBUG level.
+四月 12, 2019 9:30:01 上午 org.apache.axis.utils.JavaUtils isAttachmentSupported
+警告: Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.

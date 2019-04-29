@@ -1,0 +1,250 @@
+
+2019-04-11 08:54:42 Commons Daemon procrun stderr initialized
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.92
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Nov 9 2018 11:07:44 UTC
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.92.0
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\infrasys\java\jre
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-1-ojdkbuild-b12
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\infrasys\apache-tomcat
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\infrasys\apache-tomcat
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dfile.encoding=utf-8
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\infrasys\apache-tomcat
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\infrasys\apache-tomcat
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=C:\infrasys\apache-tomcat\endorsed
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\infrasys\apache-tomcat\temp
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\infrasys\apache-tomcat\conf\logging.properties
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx1024m
+四月 11, 2019 8:54:44 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.18 using APR version 1.6.5.
+四月 11, 2019 8:54:44 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 11, 2019 8:54:44 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1  11 Sep 2018)
+四月 11, 2019 8:54:44 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+四月 11, 2019 8:54:44 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2019 8:54:44 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 923 ms
+四月 11, 2019 8:54:44 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 11, 2019 8:54:44 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.92
+四月 11, 2019 8:54:45 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive C:\infrasys\apache-tomcat\webapps\birt.war
+四月 11, 2019 8:55:06 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.eclipse.org/birt/taglibs/birt.tld is already defined
+四月 11, 2019 8:55:06 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+四月 11, 2019 8:55:08 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deployment of web application archive C:\infrasys\apache-tomcat\webapps\birt.war has finished in 22,976 ms
+四月 11, 2019 8:55:08 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+四月 11, 2019 8:55:08 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 11, 2019 8:55:08 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 23803 ms
+四月 12, 2019 9:29:49 上午 org.apache.tomcat.util.http.Cookies processCookieHeader
+信息: Cookies: Invalid cookie. Value not a token or quoted value
+ Note: further occurrences of Cookie errors will be logged at DEBUG level.
+四月 12, 2019 9:30:01 上午 org.apache.axis.utils.JavaUtils isAttachmentSupported
+警告: Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+四月 15, 2019 10:32:29 下午 org.apache.tomcat.util.http.Cookies processCookieHeader
+信息: Cookies: Invalid cookie. Value not a token or quoted value
+ Note: further occurrences of Cookie errors will be logged at DEBUG level.
+四月 18, 2019 8:16:23 下午 org.apache.tomcat.util.http.Cookies processCookieHeader
+信息: Cookies: Invalid cookie. Value not a token or quoted value
+ Note: further occurrences of Cookie errors will be logged at DEBUG level.
+四月 22, 2019 4:59:46 下午 org.apache.tomcat.util.http.Cookies processCookieHeader
+信息: Cookies: Invalid cookie. Value not a token or quoted value
+ Note: further occurrences of Cookie errors will be logged at DEBUG level.
+四月 23, 2019 5:22:55 下午 org.apache.tomcat.util.http.Cookies processCookieHeader
+信息: Cookies: Invalid cookie. Value not a token or quoted value
+ Note: further occurrences of Cookie errors will be logged at DEBUG level.
+四月 28, 2019 10:40:28 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+四月 28, 2019 10:40:28 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+四月 28, 2019 10:40:28 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+严重: The web application [/birt] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+严重: The web application [/birt] registered the JDBC driver [org.eclipse.birt.report.data.oda.jdbc.JDBCDriverManager.WrappedDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+严重: The web application [/birt] appears to have started a thread named [EMF Reference Cleaner] but has failed to stop it. This is very likely to create a memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+严重: The web application [/birt] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+严重: The web application [/birt] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@1542e14]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@320e2fe4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@7fcb00ca]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@2df97c9b]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@a93e4be]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@2ef465ae]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@3b57d2da]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@67d8a1f0]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@2fcb89c7]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@2a86dbb7]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@39e29c68]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@28907191]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@5bcb937]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@3aa37782]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@5ab614e0]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@56defda7]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@5de8fb4d]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@238a5b4e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@49d61b29]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@1a660b73]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@1a6258d6]) and a value of type [com.ibm.icu.util.ULocale] (value [en]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@28106e2b]) and a value of type [org.eclipse.birt.report.context.BirtContext] (value [org.eclipse.birt.report.context.BirtContext@286f47df]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2a2736ea]) and a value of type [com.ibm.icu.impl.ResourceBundleWrapper] (value [com.ibm.icu.impl.ResourceBundleWrapper@4b0c750]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2ffa90db]) and a value of type [java.util.ArrayList] (value [[com.ibm.icu.text.SimpleDateFormat@12aad, com.ibm.icu.text.SimpleDateFormat@242b40, com.ibm.icu.text.SimpleDateFormat@10ba5, com.ibm.icu.text.SimpleDateFormat@206940]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+严重: The web application [/birt] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@6c48ebcf]) and a value of type [com.ibm.icu.util.ULocale] (value [zh_CN]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+四月 28, 2019 10:40:29 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+四月 28, 2019 10:40:29 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=utf-8

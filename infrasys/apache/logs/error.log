@@ -1,0 +1,97 @@
+[Mon Apr 08 11:50:03.831562 2019] [mpm_winnt:notice] [pid 11700:tid 780] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Mon Apr 08 11:50:03.831562 2019] [mpm_winnt:notice] [pid 11700:tid 780] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Mon Apr 08 11:50:03.831562 2019] [core:notice] [pid 11700:tid 780] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Mon Apr 08 11:50:03.831562 2019] [mpm_winnt:notice] [pid 11700:tid 780] AH00418: Parent: Created child process 7560
+[Mon Apr 08 11:50:04.186293 2019] [mpm_winnt:notice] [pid 7560:tid 736] AH00354: Child: Starting 450 worker threads.
+[Mon Apr 08 11:52:38.276297 2019] [mpm_winnt:notice] [pid 11700:tid 780] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 08 11:52:40.293031 2019] [mpm_winnt:notice] [pid 7560:tid 736] AH00364: Child: All worker threads have exited.
+[Mon Apr 08 11:52:40.308617 2019] [mpm_winnt:notice] [pid 11700:tid 780] AH00430: Parent: Child process 7560 exited successfully.
+[Mon Apr 08 11:53:09.476415 2019] [mpm_winnt:notice] [pid 3308:tid 924] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Mon Apr 08 11:53:09.477247 2019] [mpm_winnt:notice] [pid 3308:tid 924] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Mon Apr 08 11:53:09.477247 2019] [core:notice] [pid 3308:tid 924] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Mon Apr 08 11:53:09.479241 2019] [mpm_winnt:notice] [pid 3308:tid 924] AH00418: Parent: Created child process 2800
+[Mon Apr 08 11:53:09.850265 2019] [mpm_winnt:notice] [pid 2800:tid 768] AH00354: Child: Starting 450 worker threads.
+[Thu Apr 11 00:55:31.801179 2019] [mpm_winnt:notice] [pid 3308:tid 924] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 11 00:55:33.832555 2019] [mpm_winnt:notice] [pid 2800:tid 768] AH00364: Child: All worker threads have exited.
+[Thu Apr 11 00:55:34.191372 2019] [mpm_winnt:notice] [pid 3308:tid 924] AH00430: Parent: Child process 2800 exited successfully.
+[Thu Apr 11 08:54:41.356122 2019] [mpm_winnt:notice] [pid 3244:tid 884] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Thu Apr 11 08:54:41.357121 2019] [mpm_winnt:notice] [pid 3244:tid 884] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Thu Apr 11 08:54:41.357121 2019] [core:notice] [pid 3244:tid 884] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Thu Apr 11 08:54:41.359113 2019] [mpm_winnt:notice] [pid 3244:tid 884] AH00418: Parent: Created child process 4984
+[Thu Apr 11 08:54:41.819835 2019] [mpm_winnt:notice] [pid 4984:tid 748] AH00354: Child: Starting 450 worker threads.
+[Thu Apr 11 09:00:45.367618 2019] [mpm_winnt:crit] [pid 4984:tid 748] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Apr 11 09:00:50.600066 2019] [mpm_winnt:notice] [pid 4984:tid 748] AH00364: Child: All worker threads have exited.
+[Thu Apr 11 09:18:10.016209 2019] [core:warn] [pid 5544:tid 600] AH00098: pid file C:/infrasys/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 11 09:18:10.148855 2019] [mpm_winnt:notice] [pid 5544:tid 600] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Thu Apr 11 09:18:10.148855 2019] [mpm_winnt:notice] [pid 5544:tid 600] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Thu Apr 11 09:18:10.148855 2019] [core:notice] [pid 5544:tid 600] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Thu Apr 11 09:18:10.152842 2019] [mpm_winnt:notice] [pid 5544:tid 600] AH00418: Parent: Created child process 6592
+[Thu Apr 11 09:18:10.616604 2019] [mpm_winnt:notice] [pid 6592:tid 732] AH00354: Child: Starting 450 worker threads.
+[Thu Apr 11 09:19:42.176811 2019] [mpm_winnt:notice] [pid 5544:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 11 09:19:44.185646 2019] [mpm_winnt:notice] [pid 6592:tid 732] AH00364: Child: All worker threads have exited.
+[Thu Apr 11 09:19:44.217559 2019] [mpm_winnt:notice] [pid 5544:tid 600] AH00430: Parent: Child process 6592 exited successfully.
+[Thu Apr 11 09:19:47.699707 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Thu Apr 11 09:19:47.699707 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Thu Apr 11 09:19:47.699707 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Thu Apr 11 09:19:47.704659 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 15216
+[Thu Apr 11 09:19:48.125535 2019] [mpm_winnt:notice] [pid 15216:tid 712] AH00354: Child: Starting 450 worker threads.
+[Tue Apr 16 17:08:06.421119 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00428: Parent: child process 15216 exited with status 3221226356 -- Restarting.
+[Tue Apr 16 17:08:06.660519 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Tue Apr 16 17:08:06.660519 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Tue Apr 16 17:08:06.660519 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Tue Apr 16 17:08:06.680446 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 17400
+[Tue Apr 16 17:08:07.204029 2019] [mpm_winnt:notice] [pid 17400:tid 716] AH00354: Child: Starting 450 worker threads.
+[Tue Apr 16 17:33:41.095489 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00428: Parent: child process 17400 exited with status 3221226356 -- Restarting.
+[Tue Apr 16 17:33:41.160356 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Tue Apr 16 17:33:41.160356 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Tue Apr 16 17:33:41.160356 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Tue Apr 16 17:33:41.165346 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 18212
+[Tue Apr 16 17:33:41.701920 2019] [mpm_winnt:notice] [pid 18212:tid 720] AH00354: Child: Starting 450 worker threads.
+[Tue Apr 16 17:50:27.994078 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00428: Parent: child process 18212 exited with status 3221226356 -- Restarting.
+[Tue Apr 16 17:50:28.050967 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Tue Apr 16 17:50:28.050967 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Tue Apr 16 17:50:28.050967 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Tue Apr 16 17:50:28.058906 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 17212
+[Tue Apr 16 17:50:28.585559 2019] [mpm_winnt:notice] [pid 17212:tid 928] AH00354: Child: Starting 450 worker threads.
+[Fri Apr 19 17:39:02.017676 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00428: Parent: child process 17212 exited with status 3221226356 -- Restarting.
+[Fri Apr 19 17:39:02.194232 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Fri Apr 19 17:39:02.194232 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Fri Apr 19 17:39:02.194232 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Fri Apr 19 17:39:02.230098 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 21312
+[Fri Apr 19 17:39:02.781678 2019] [mpm_winnt:notice] [pid 21312:tid 912] AH00354: Child: Starting 450 worker threads.
+[Wed Apr 24 10:28:32.454950 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00428: Parent: child process 21312 exited with status 3221226356 -- Restarting.
+[Wed Apr 24 10:28:32.641192 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Wed Apr 24 10:28:32.641192 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Wed Apr 24 10:28:32.641192 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Wed Apr 24 10:28:32.663133 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 5464
+[Wed Apr 24 10:28:33.188779 2019] [mpm_winnt:notice] [pid 5464:tid 832] AH00354: Child: Starting 450 worker threads.
+[Sun Apr 28 10:36:52.150078 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00428: Parent: child process 5464 exited with status 3221226356 -- Restarting.
+[Sun Apr 28 10:36:52.688679 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Sun Apr 28 10:36:52.689636 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Sun Apr 28 10:36:52.689636 2019] [core:notice] [pid 4380:tid 832] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Sun Apr 28 10:36:52.723547 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00418: Parent: Created child process 18072
+[Sun Apr 28 10:36:53.542361 2019] [mpm_winnt:notice] [pid 18072:tid 772] AH00354: Child: Starting 450 worker threads.
+[Sun Apr 28 10:36:53.549340 2019] [mpm_winnt:error] [pid 18072:tid 3764] (OS 10038)在一个非套接字上尝试了一个操作。  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sun Apr 28 10:36:53.552331 2019] [mpm_winnt:error] [pid 18072:tid 4380] (OS 10038)在一个非套接字上尝试了一个操作。  : AH00332: winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Sun Apr 28 10:44:41.868998 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 28 10:44:43.872645 2019] [mpm_winnt:notice] [pid 18072:tid 772] AH00364: Child: All worker threads have exited.
+[Sun Apr 28 10:44:43.893588 2019] [mpm_winnt:notice] [pid 4380:tid 832] AH00430: Parent: Child process 18072 exited successfully.
+[Sun Apr 28 10:44:52.299167 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Sun Apr 28 10:44:52.299167 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Sun Apr 28 10:44:52.299167 2019] [core:notice] [pid 23224:tid 904] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Sun Apr 28 10:44:52.320105 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00418: Parent: Created child process 15364
+[Sun Apr 28 10:44:53.075058 2019] [mpm_winnt:notice] [pid 15364:tid 816] AH00354: Child: Starting 450 worker threads.
+[Sun Apr 28 14:51:28.339281 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00428: Parent: child process 15364 exited with status 3221226356 -- Restarting.
+[Sun Apr 28 14:51:28.723254 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Sun Apr 28 14:51:28.723254 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Sun Apr 28 14:51:28.723254 2019] [core:notice] [pid 23224:tid 904] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Sun Apr 28 14:51:28.758198 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00418: Parent: Created child process 10652
+[Sun Apr 28 14:51:29.638866 2019] [mpm_winnt:notice] [pid 10652:tid 804] AH00354: Child: Starting 450 worker threads.
+[Sun Apr 28 17:37:38.091516 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 28 17:37:40.109832 2019] [mpm_winnt:notice] [pid 10652:tid 804] AH00364: Child: All worker threads have exited.
+[Sun Apr 28 17:37:40.234814 2019] [mpm_winnt:notice] [pid 23224:tid 904] AH00430: Parent: Child process 10652 exited successfully.
+[Mon Apr 29 09:00:13.625458 2019] [mpm_winnt:notice] [pid 3536:tid 964] AH00455: Apache/2.4.37 (Win64) PHP/7.2.13 configured -- resuming normal operations
+[Mon Apr 29 09:00:13.625458 2019] [mpm_winnt:notice] [pid 3536:tid 964] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:51:35
+[Mon Apr 29 09:00:13.625458 2019] [core:notice] [pid 3536:tid 964] AH00094: Command line: 'C:\\infrasys\\apache\\bin\\httpd.exe -d C:/infrasys/apache'
+[Mon Apr 29 09:00:13.633437 2019] [mpm_winnt:notice] [pid 3536:tid 964] AH00418: Parent: Created child process 5360
+[Mon Apr 29 09:00:14.331306 2019] [mpm_winnt:notice] [pid 5360:tid 796] AH00354: Child: Starting 450 worker threads.

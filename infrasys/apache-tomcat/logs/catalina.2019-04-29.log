@@ -1,0 +1,76 @@
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.92
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Nov 9 2018 11:07:44 UTC
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.92.0
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\infrasys\java\jre
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-1-ojdkbuild-b12
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\infrasys\apache-tomcat
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\infrasys\apache-tomcat
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dfile.encoding=utf-8
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\infrasys\apache-tomcat
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\infrasys\apache-tomcat
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=C:\infrasys\apache-tomcat\endorsed
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\infrasys\apache-tomcat\temp
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\infrasys\apache-tomcat\conf\logging.properties
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx1024m
+四月 29, 2019 9:00:17 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.18 using APR version 1.6.5.
+四月 29, 2019 9:00:17 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 29, 2019 9:00:17 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1  11 Sep 2018)
+四月 29, 2019 9:00:17 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+四月 29, 2019 9:00:17 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 29, 2019 9:00:17 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1217 ms
+四月 29, 2019 9:00:17 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 29, 2019 9:00:17 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.92
+四月 29, 2019 9:00:18 上午 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+警告: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [181] milliseconds.
+四月 29, 2019 9:00:18 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deploying web application archive C:\infrasys\apache-tomcat\webapps\birt.war
+四月 29, 2019 9:00:26 上午 org.apache.catalina.startup.TaglibUriRule body
+信息: TLD skipped. URI: http://www.eclipse.org/birt/taglibs/birt.tld is already defined
+四月 29, 2019 9:00:26 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+四月 29, 2019 9:00:28 上午 org.apache.catalina.startup.HostConfig deployWAR
+信息: Deployment of web application archive C:\infrasys\apache-tomcat\webapps\birt.war has finished in 9,596 ms
+四月 29, 2019 9:00:28 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+四月 29, 2019 9:00:28 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 29, 2019 9:00:28 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 11037 ms
